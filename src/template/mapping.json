@@ -521,5 +521,11 @@
   "comment-draft": 60430,
   "send": 60431,
   "sparkle": 60432,
-  "insert": 60433
+  "insert": 60433,
+
+  "aistudio-aiflow": 50000,
+  "aistudio-fai": 50001,
+  "aistudio-moon": 50002,
+  "aistudio-sun": 50003,
+  "aistudio-toggle-full-screen": 50004
 }

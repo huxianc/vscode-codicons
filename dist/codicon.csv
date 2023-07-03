@@ -2,6 +2,11 @@ short_name,character,unicode
 account,,EB99
 activate-breakpoints,,EA97
 add,,EA60
+aistudio-aiflow,썐,C350
+aistudio-fai,썑,C351
+aistudio-moon,썒,C352
+aistudio-sun,썓,C353
+aistudio-toggle-full-screen,썔,C354
 archive,,EA98
 arrow-both,,EA99
 arrow-circle-down,,EBFC
