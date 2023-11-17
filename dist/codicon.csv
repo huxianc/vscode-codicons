@@ -4,7 +4,11 @@ activate-breakpoints,,EA97
 add,,EA60
 aistudio-aiflow,썐,C350
 aistudio-fai,썑,C351
+aistudio-kb,썗,C357
+aistudio-mock-trade,썘,C358
 aistudio-moon,썒,C352
+aistudio-my-trade,썕,C355
+aistudio-share,썖,C356
 aistudio-sun,썓,C353
 aistudio-toggle-full-screen,썔,C354
 archive,,EA98

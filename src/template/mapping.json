@@ -527,5 +527,9 @@
   "aistudio-fai": 50001,
   "aistudio-moon": 50002,
   "aistudio-sun": 50003,
-  "aistudio-toggle-full-screen": 50004
+  "aistudio-toggle-full-screen": 50004,
+  "aistudio-my-trade": 50005,
+  "aistudio-share": 50006,
+  "aistudio-kb": 50007,
+  "aistudio-mock-trade": 50008
 }

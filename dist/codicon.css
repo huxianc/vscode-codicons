@@ -6,7 +6,7 @@
 @font-face {
 	font-family: "codicon";
 	font-display: block;
-	src: url("./codicon.ttf?c21e8aa04f01b3d1d4bdef58527cafe5") format("truetype");
+	src: url("./codicon.ttf?fad34644e35461bd147cf769263ddffa") format("truetype");
 }
 
 .codicon[class*='codicon-'] {
@@ -585,3 +585,7 @@
 .codicon-aistudio-moon:before { content: "\c352" }
 .codicon-aistudio-sun:before { content: "\c353" }
 .codicon-aistudio-toggle-full-screen:before { content: "\c354" }
+.codicon-aistudio-my-trade:before { content: "\c355" }
+.codicon-aistudio-share:before { content: "\c356" }
+.codicon-aistudio-kb:before { content: "\c357" }
+.codicon-aistudio-mock-trade:before { content: "\c358" }
