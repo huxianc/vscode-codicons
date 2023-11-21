@@ -6,7 +6,7 @@
 @font-face {
 	font-family: "codicon";
 	font-display: block;
-	src: url("./codicon.ttf?fad34644e35461bd147cf769263ddffa") format("truetype");
+	src: url("./codicon.ttf?8bff24f638ae9d600f2864e78a4a2bee") format("truetype");
 }
 
 .codicon[class*='codicon-'] {
