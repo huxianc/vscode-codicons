@@ -55,6 +55,7 @@ chevron-down,,EAB4
 chevron-left,,EAB5
 chevron-right,,EAB6
 chevron-up,,EAB7
+chip,,EC19
 chrome-close,,EAB8
 chrome-maximize,,EAB9
 chrome-minimize,,EABA
@@ -75,6 +76,7 @@ cloud-download,,EAC2
 cloud-upload,,EAC3
 cloud,,EBAA
 code,,EAC4
+coffee,,EC15
 collapse-all,,EAC5
 color-mode,,EAC6
 combine,,EBB6
@@ -85,6 +87,7 @@ comment,,EA6B
 compass-active,,EBD7
 compass-dot,,EBD6
 compass,,EBD5
+copilot,,EC1E
 copy,,EBCC
 credit-card,,EAC9
 dash,,EACC
@@ -129,8 +132,10 @@ device-mobile,,EADB
 diff-added,,EADC
 diff-ignored,,EADD
 diff-modified,,EADE
+diff-multiple,,EC23
 diff-removed,,EADF
 diff-renamed,,EAE0
+diff-single,,EC22
 diff,,EAE1
 discard,,EAE2
 edit,,EA73
@@ -166,11 +171,13 @@ folder-active,,EAF6
 folder-library,,EBDF
 folder-opened,,EAF7
 folder,,EA83
+game,,EC17
 gear,,EAF8
 gift,,EAF9
 gist-secret,,EAFA
 git-commit,,EAFC
 git-compare,,EAFD
+git-fetch,,EC1D
 git-merge,,EAFE
 git-pull-request-closed,,EBDA
 git-pull-request-create,,EBBC
@@ -232,6 +239,7 @@ layout-statusbar,,EBF5
 layout,,EBEB
 library,,EB9C
 lightbulb-autofix,,EB13
+lightbulb-sparkle,,EC1F
 lightbulb,,EA61
 link-external,,EB14
 link,,EB15
@@ -256,11 +264,14 @@ megaphone,,EB1E
 mention,,EB1F
 menu,,EB94
 merge,,EBAB
+mic-filled,,EC1C
+mic,,EC12
 milestone,,EB20
 mirror,,EA69
 mortar-board,,EB21
 move,,EB22
 multiple-windows,,EB23
+music,,EC1B
 mute,,EB24
 new-file,,EA7F
 new-folder,,EA80
@@ -279,6 +290,7 @@ pass-filled,,EBB3
 pass,,EBA4
 person-add,,EBCD
 person,,EA67
+piano,,EC1A
 pie-chart,,EBE4
 pin,,EB2B
 pinned-dirty,,EBB2
@@ -316,6 +328,7 @@ repo-push,,EB41
 repo,,EA62
 report,,EB42
 request-changes,,EB43
+robot,,EC20
 rocket,,EB44
 root-folder-opened,,EB45
 root-folder,,EB46
@@ -339,12 +352,15 @@ server-process,,EBA2
 server,,EB50
 settings-gear,,EB51
 settings,,EB52
+share,,EC25
 shield,,EB53
 sign-in,,EA6F
 sign-out,,EA6E
 smiley,,EB54
+snake,,EC16
 sort-precedence,,EB55
 source-control,,EA68
+sparkle-filled,,EC21
 sparkle,,EC10
 split-horizontal,,EB56
 split-vertical,,EB57
@@ -353,6 +369,7 @@ star-empty,,EA6A
 star-full,,EB59
 star-half,,EB5A
 stop-circle,,EBA5
+surround-with,,EC24
 symbol-array,,EA8A
 symbol-boolean,,EA8F
 symbol-class,,EB5B
@@ -395,7 +412,9 @@ terminal-ubuntu,,EBC9
 terminal,,EA85
 text-size,,EB69
 three-bars,,EB6A
+thumbsdown-filled,,EC13
 thumbsdown,,EB6B
+thumbsup-filled,,EC14
 thumbsup,,EB6C
 tools,,EB6D
 trash,,EA81
@@ -421,6 +440,7 @@ vm-connect,,EBA9
 vm-outline,,EB7A
 vm-running,,EB7B
 vm,,EA7A
+vr,,EC18
 wand,,EBCF
 warning,,EA6C
 watch,,EB7C
